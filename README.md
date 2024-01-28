@@ -50,7 +50,7 @@ If you'd like to contribute to the project, follow these steps:
 4. Push your changes to your fork.
 5. Create a pull request to the main repository.
 
-##Live Preview - https://amulyachdev.github.io/Landing-Page---odin-project/
+## Live Preview - https://amulyachdev.github.io/Landing-Page---odin-project/
 
 ## License
 
